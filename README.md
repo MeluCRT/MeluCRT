@@ -26,5 +26,5 @@ This account is for my school stuff only; if you found my main account : no you 
 
 ---
 ## Nitty-gritty
-* Website host : Mosanweb
-* ...
+* [Badges credit](https://badges.pages.dev)
+* Icon credit : me! Did it in like ~5 minutes
