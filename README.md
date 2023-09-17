@@ -1,6 +1,7 @@
 # 🐱 Salutations 🐱
 Greetings, my name is Mélu, I'm a Web Design student at HEAJ and, among others : a cat enthusiast 🐱, tea enjoyer 🍵, certified weeb 🐱‍👤,  and I guess I draw sometimes too (but this isn't the account for that).
-This account is for my school stuff only; if you found my main account : no you didn't (but if you did, hope you like anime).
+
+This account is for my school stuff only; if you found my main account : no you didn't (but if you did, hope you like anime and...other stuff).
 
 ---
 ## What I know
@@ -25,3 +26,6 @@ This account is for my school stuff only; if you found my main account : no you 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 
 ---
+## Nitty-gritty
+* Website host : Mosanweb
+* ...
