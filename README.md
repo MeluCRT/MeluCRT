@@ -11,13 +11,12 @@ This account is for my school stuff only; if you found my main account : no you 
 ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
 
 
----
 ## What I'm learning
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![MDX Badge](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff&style=flat)
 
----
+
 ## What I use
 ![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=flat)
 ![Windows 10 Badge](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff&style=flat)
