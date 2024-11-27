@@ -1,5 +1,5 @@
 # 🐱 Salutations 🐱
-Greetings, my name is Mélu, I'm a Web Design student at HEAJ and, among others : a cat enthusiast 🐱, tea enjoyer 🍵, certified weeb 🥷,  and I guess I draw sometimes too (but this isn't the account for that).
+Greetings, my name is Mélu, I'm a Web Design student at HEAJ and, among others : a cat enthusiast 🐱, tea enjoyer 🍵, video game enthusiast 🎮,  and I guess I draw sometimes too (but this isn't the account for that).
 
 This account is for my school and professional works only.
 
